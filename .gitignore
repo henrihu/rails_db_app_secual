@@ -44,3 +44,5 @@ erd.pdf
 /lib/C/analyzation.so
 /lib/C/analyzation.o
 /lib/C/hiredis
+
+/config/database.yml
